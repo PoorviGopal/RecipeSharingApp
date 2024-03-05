@@ -1,5 +1,6 @@
 {
   "name": "recipefrontend",
+  "homepage": "https://PoorviGopal.github.io/RecipeSharingApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
